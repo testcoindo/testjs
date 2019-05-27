@@ -1,0 +1,11 @@
+{
+    "departament": "links",
+    "employees": [
+        {"icon": ":/icons/synced", "name": "&ссылка1", "link" : "https://github.com/"},
+        {"icon": ":/icons/synced", "name": "&ссылка1", "link" : "https://github.com/"},
+        {"icon": ":/icons/synced", "name": "&ссылка1", "link" : "https://github.com/"},
+        {"icon": ":/icons/synced", "name": "&ссылка1", "link" : "https://github.com/"},
+        {"icon": ":/icons/synced", "name": "&ссылка1", "link" : "https://github.com/"}
+    ],
+    "number" : 5
+}
